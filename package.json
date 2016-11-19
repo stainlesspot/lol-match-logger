@@ -1,0 +1,12 @@
+{
+	"name": "lol-match-logger",
+	"version": "0.1.5",
+	"private": true,
+	"dependencies": {
+		"leagueapi": "^0.4.21",
+		"googleapis": "^14.1.0"
+	},
+	"scripts": {
+    "start": "node server.js"
+  }
+}
